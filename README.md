@@ -1,4 +1,4 @@
-![Old school tech](test.avif)
+![Old school tech](img.avif)
 
 ## About me
 
@@ -12,6 +12,3 @@ interactive applications.
 My programming experience includes JavaScript, Node, TypeScript, React,
 C#, Java, and Python. Do you wanna know more? Get in touch. I look forward to
 hearing from you.
-
-
-
