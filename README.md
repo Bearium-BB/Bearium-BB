@@ -1,4 +1,4 @@
-![img](img/img.avif)
+![img](img/img.jpg)
 
 ## About me
 
