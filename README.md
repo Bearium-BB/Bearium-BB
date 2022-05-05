@@ -1,4 +1,4 @@
-![Old school tech](test.avif "Old school tech")
+![Old school tech](test.avif)
 
 ## About me
 
