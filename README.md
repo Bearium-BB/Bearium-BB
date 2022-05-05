@@ -14,7 +14,9 @@ But that's a little about me. I hope you enjoyed what you've learned about me to
 
 ### My stats
 
-<a href="https://github.com/mrspecht">
+<a href="https://github.com/
+Bearium-BB
+">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=
 Bearium-BB
 &theme=vue&show_icons=true" alt="My GitHub stats" />
