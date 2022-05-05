@@ -21,3 +21,4 @@ But that's a little about me. I hope you enjoyed what you've learned about me to
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bearium-BB&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
   GitHub stats"/>
 </a>
+hi
