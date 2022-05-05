@@ -14,16 +14,10 @@ But that's a little about me. I hope you enjoyed what you've learned about me to
 
 ### My stats
 
-<a href="https://github.com/
-Bearium-BB
-">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=
-Bearium-BB
-&theme=vue&show_icons=true" alt="My GitHub stats" />
+<a href="https://github.com/Bearium-BB">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Bearium-BB&theme=vue&show_icons=true" alt="My GitHub stats" />
 </a>
-<a href="https://github.com/
-Bearium-BB
-">
+<a href="https://github.com/Bearium-BB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bearium-BB&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
   GitHub stats"/>
 </a>
